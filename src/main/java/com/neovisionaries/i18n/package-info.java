@@ -11,7 +11,7 @@
  * </p>
  * <pre style="margin: 1em; padding: 0.5em; border: solid 1px black;">
  * <span class="tag">&lt;dependency&gt;
- *     &lt;groupId&gt;</span>com.neovisionaries<span class="tag">&lt;/groupId&gt;
+ *     &lt;groupId&gt;</span>io.github.gauss-rifle-clip<span class="tag">&lt;/groupId&gt;
  *     &lt;artifactId&gt;</span>nv-i18n<span class="tag">&lt;/artifactId&gt;
  *     &lt;version&gt;</span>1.29<span class="tag">&lt;/version&gt;
  * &lt;/dependency&gt;</span><!--
